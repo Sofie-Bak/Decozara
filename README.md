@@ -1,0 +1,1 @@
+One of my early website assignments in my first year of school - Edited all the images with image processing, changing colors and making sure it all fit together, made the logo using Adobe Illustrator and Photoshop :)
