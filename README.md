@@ -1,2 +1,2 @@
-**One of my early website assignments from my first year of school.
-**I edited all the images with color adjustments and processing to make sure the visuals felt cohesive. The logo is designed by me using Adobe Illustrator. This was also one of the very first projects where we implemented sliders, burger menus, and responsive design, so it really marked a turning point where things started to click and come together.
+**One of my early website assignments from my first year of school.** 
+I edited all the images with color adjustments and processing to make sure the visuals felt cohesive. The logo is designed by me using Adobe Illustrator. This was also one of the very first projects where we implemented sliders, burger menus, and responsive design, so it really marked a turning point where things started to click and come together.
