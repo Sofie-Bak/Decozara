@@ -1,0 +1,135 @@
+.header-img3 {
+    height: 100vh;
+    object-fit: cover;
+}
+
+.help-header {
+    position: absolute;
+    font-family: "Playfair Display", serif;
+    height: 30vh;
+    font-size: 4em;
+    transform: translateY(65%);
+    margin-left: 4em;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    color: #c4c9c6;
+    text-shadow: 5px 5px #292827;
+}
+.help-text {
+    position: absolute;
+    font-family: "Playfair Display", serif;
+    height: 60vh;
+    font-size: 4em;
+    transform: translateY(55%);
+    right: 0;
+    margin-right: 2.3em;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    color: #c4c9c6;
+    text-shadow: 5px 5px #292827;
+}
+.emailForm {
+    position: absolute;
+    z-index: 10;
+    width: 60%;
+    margin: 0 auto;
+    height: 500px;
+    transform: translateY(-37em);
+}
+
+  
+  /* ====CONTACT FORM==== */
+.form {
+    position: absolute;
+    width: 50vw;
+    transform: translateX(50%) translateY(50vh);
+}
+.inputContainer {
+    display: flex;
+    flex-direction: column;
+}
+.contact-input {
+    background-color: #c4c9c618;
+    border: none;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: "Josefin Sans", sans-serif;
+    outline: none;
+}
+.button {
+    margin-left: 30px;
+    width: 400px;
+    border: none;
+    background-color: #29282781;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .button1 {
+    color: #c4c9c6;
+    border: 1px solid #292827;;
+    font-family: "Josefin Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+  }
+  /* BUTTON 2 */
+.button2 {
+    margin-left: 55%;
+    transform: translateY(-48px);
+    border: none;
+    background-color: #2928277c;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .button2 {
+    color: #c4c9c6;
+    border: 1px solid #292827;;
+    font-family: "Josefin Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+  }
+  .button:hover {
+    background-color: #516645;
+  }
+  .button2:hover {
+    background-color: #516645;
+  }
+
+  textarea {
+    resize: none;
+  }
+  input::placeholder {
+    color: #292827;
+    letter-spacing: 1px;
+  }
+  textarea::placeholder {
+    color: #292827;
+    letter-spacing: 1px;
+  }
+  .sub {
+    color: #c4c9c698;
+    display: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 0px;
+  }
+  .unsub {
+    color: #c4c9c698;
+    text-align: center;
+    display: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 20px;
+    
+  }

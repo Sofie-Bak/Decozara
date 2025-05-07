@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/gallery.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <script src="gallery.js" defer></script>
+    <script src="script.js" defer></script>
+    <script src="contact.js" defer></script>
+    <title>Gallery</title>
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER AND NAVIGATION -->
+        <header id="home">
+            <nav class="main-nav">
+                <div class="burger-btn">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <a class="logo" href="index.html"></a>
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item gallery">
+                        <a href="gallery.html" class="nav-link">Gallery</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+            <img src="img/blur.jpg" alt="Sofa with pillows and windows" class="header-img3">
+            <h1 class="help-header">Contact us</h1>
+            <h2 class="help-text">&#9474;get updates on new launches</h2>
+           <div class="form">
+                <form action="#" class="inputContainer">
+    
+                    <input
+                      type="text"
+                      name="name"
+                      id="name"
+                      placeholder="Name"
+                      class="contact-input"
+                    />
+        
+                  <input
+                    type="email"
+                    name="email"
+                    id="email"
+                    placeholder="E-mail"
+                    class="contact-input"
+                  />
+        
+        
+                  <textarea
+                    name="message"
+                    id="message"
+                    cols="30"
+                    rows="10"
+                    placeholder="Message"
+                    class="contact-input"
+                  ></textarea>
+                  <div class="responseMessage"></div>
+                  <button type="submit" id="sub" class="button button1">Subscribe</button>
+                   <button type="button" id="unsub" class="button button2">
+                       Unsubscribe
+                   </button>
+                  <div class="responseMessage"></div>
+                </form>
+
+           </div>
+              </div>
+        </header>
+        </body>
+        </html>
