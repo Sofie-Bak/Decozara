@@ -1,1 +1,2 @@
-One of my early website assignments in my first year of school - Edited all the images with image processing, changing colors and making sure it all fit together, made the logo using Adobe Illustrator and Photoshop :)
+**One of my early website assignments from my first year of school.
+**I edited all the images with color adjustments and processing to make sure the visuals felt cohesive. The logo is designed by me using Adobe Illustrator. This was also one of the very first projects where we implemented sliders, burger menus, and responsive design, so it really marked a turning point where things started to click and come together.
